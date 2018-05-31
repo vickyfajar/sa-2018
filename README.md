@@ -34,7 +34,11 @@ solving slide puzzle with DFS and BFS
 
 ## Topic and Description
 
+Tower of Hanoi, BFS
+
 ## Github Repository
+
+[https://github.com/bimaindra4/ProjectSA](https://github.com/bimaindra4/ProjectSA)
 
 # Group IV
 
@@ -47,6 +51,8 @@ solving slide puzzle with DFS and BFS
 ## Topic and Description
 
 ## Github Repository
+
+[https://github.com/yonescynthia/ProjectSA](https://github.com/yonescynthia/ProjectSA)
 
 # Group V
 
@@ -108,6 +114,8 @@ github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/
 
 ## Github Repository
 
+[https://github.com/rasuyas/ProjectSADjikstra](https://github.com/rasuyas/ProjectSADjikstra)
+
 # Group X
 
 ## Members
@@ -119,6 +127,8 @@ github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/
 ## Topic and Description
 
 ## Github Repository
+
+[https://github.com/aldiarema91/ta_sa](https://github.com/aldiarema91/ta_sa)
 
 # Group XI
 
@@ -139,10 +149,11 @@ github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/
 * (161111067) Muhamad Irfan Zidni
 * (161111054) Firda Rosa Olivia M
 
-
 ## Topic and Description
 
 ## Github Repository
+
+[https://github.com/bibiehadi/TA-StrategiAlgoritma](https://github.com/bibiehadi/TA-StrategiAlgoritma)
 
 # Group XIII
 
@@ -152,8 +163,9 @@ github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/
 * (161111043) Siti Maisyaroh
 * (161111044) Hizkia Luke S
 
-
 ## Topic and Description
+
+Mining game
 
 ## Github Repository
 
@@ -164,7 +176,10 @@ github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/
 * (161111035) Arif Widi Atmaja
 * (161111038) Muhammad Imam Arsyawalfa
 
-
 ## Topic and Description
 
+Backtracking untuk pemilihan jadwal kuliah
+
 ## Github Repository
+
+[https://github.com/atmajawidi98/sa-2018](https://github.com/atmajawidi98/sa-2018)
