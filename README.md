@@ -107,7 +107,7 @@ Rat in a maze using BackTracking
 * (161112001) Rhesal Mahadyanto
 
 ## Topic and Description
-Implementasi Hamilton Cycle dengan menggunakan BFS pada Traveller Salesman Problem
+Implementasi Hamilton Cycle dengan menggunakan Backtracking(DFS) pada Traveller Salesman Problem
 ## Github Repository
 
 [http://github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/](http://github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/)
