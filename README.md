@@ -7,9 +7,12 @@
 * (161111076) Fajar Abifian Al Ghiffari
 
 ## Topic and Description
-* Solving luban lock puzzle with DFS Algorithm.
+
+* Solving `rullo` with DFS Algorithm.
 
 ## Github Repository
+
+[https://github.com/AgnesNola/tugas-akhir-strategi-algoritma](https://github.com/AgnesNola/tugas-akhir-strategi-algoritma)
 
 # Group II
 
@@ -63,8 +66,12 @@ Tower of Hanoi, BFS
 * (161111073) Muhammad amin r
 
 ## Topic and Description
- Rat in a maze using BackTracking
+
+Rat in a maze using BackTracking
+
 ## Github Repository
+
+[https://github.com/mukhyiddin/sa](https://github.com/mukhyiddin/sa)
 
 # Group VI
 
@@ -89,6 +96,8 @@ Tower of Hanoi, BFS
  
 ## Github Repository
 
+[https://github.com/vickyfajar/TA_SA](https://github.com/vickyfajar/TA_SA)
+
 # Group VIII
 
 ## Members
@@ -100,7 +109,8 @@ Tower of Hanoi, BFS
 ## Topic and Description
 Implementasi Hamilton Cycle dengan menggunakan BFS pada Traveller Salesman Problem
 ## Github Repository
-github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/
+
+[http://github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/](http://github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/)
 
 # Group IX
 
@@ -111,6 +121,8 @@ github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/
 * (161111037) Bima Adi Wijaya
 
 ## Topic and Description
+
+Labyrinth solver, Dijkstra
 
 ## Github Repository
 
