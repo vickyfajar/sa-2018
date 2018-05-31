@@ -107,7 +107,9 @@ Rat in a maze using BackTracking
 * (161112001) Rhesal Mahadyanto
 
 ## Topic and Description
-Implementasi Hamilton Cycle dengan menggunakan Backtracking(DFS) pada Traveller Salesman Problem
+
+Implementasi Hamilton Cycle dengan menggunakan Bruteforce + prunning pada Traveller Salesman Problem
+
 ## Github Repository
 
 [http://github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/](http://github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/)
@@ -137,6 +139,8 @@ Labyrinth solver, Dijkstra
 * (161111062) Ovaldy Dwify R
 
 ## Topic and Description
+
+N-Queen
 
 ## Github Repository
 
@@ -195,3 +199,15 @@ Backtracking untuk pemilihan jadwal kuliah
 ## Github Repository
 
 [https://github.com/atmajawidi98/sa-2018](https://github.com/atmajawidi98/sa-2018)
+
+# Group XV
+
+## Members
+
+* (161111002) Renaldy Bilal
+* (161111003) Imas Kurniawan
+* (161111010) Deby Nawangsari
+
+## Topic and Description
+
+## Github Repository
