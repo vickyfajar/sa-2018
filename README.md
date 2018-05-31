@@ -98,7 +98,7 @@ Tower of Hanoi, BFS
 * (161112001) Rhesal Mahadyanto
 
 ## Topic and Description
-Implementasi Hamilton Cycle dengan menggunakan BFS pada Traveller Salesman Problem
+Implementasi Hamilton Cycle dengan menggunakan Backtracking(DFS) pada Traveller Salesman Problem
 ## Github Repository
 github.com/galihsatriawan/Final-Project-of-Algorithm-Design-and-Technique/
 
