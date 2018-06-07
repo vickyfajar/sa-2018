@@ -94,6 +94,8 @@ Rat in a maze using BackTracking
 
 ## Topic and Description
  
+ Maze solver with dfs algorithm
+ 
 ## Github Repository
 
 [https://github.com/vickyfajar/TA_SA](https://github.com/vickyfajar/TA_SA)
