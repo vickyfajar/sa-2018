@@ -93,6 +93,7 @@ Rat in a maze using BackTracking
 * (161111071) Vicky Fajar
 
 ## Topic and Description
+Maze solver with dfs algorithm
  
 ## Github Repository
 
